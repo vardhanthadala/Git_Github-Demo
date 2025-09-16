@@ -104,4 +104,3 @@ git branch -r
 
 ---
 
-✍️ Notes prepared by *Tech Jashwanth*
