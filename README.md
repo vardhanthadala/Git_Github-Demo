@@ -2,20 +2,20 @@
 # 📘 Git & GitHub Beginner Guide  
 
 ## 📌 Table of Contents  
-1. [Introduction](#introduction)  
-2. [What is Version Control?](#what-is-version-control)  
-3. [What is Git?](#what-is-git)  
-4. [What is GitHub?](#what-is-github)  
-5. [Git vs GitHub](#git-vs-github)  
-6. [Installing Git](#installing-git)  
-7. [Git Basic Setup](#git-basic-setup)  
-8. [Git Workflow Explained](#git-workflow-explained)  
-9. [Basic Git Commands](#basic-git-commands)  
-10. [Working with Branches](#working-with-branches)  
-11. [Merging & Merge Conflicts](#merging--merge-conflicts)  
-12. [GitHub Collaboration](#github-collaboration)  
-13. [Best Practices](#best-practices)  
-14. [Next Steps](#next-steps)  
+1. Introduction 
+2. What is Version Control?
+3. What is Git?
+4. What is GitHub?]  
+5. Git vs GitHub  
+6. Installing Git
+7. Git Basic Setup 
+8. Git Workflow Explained  
+9. Basic Git Commands 
+10. Working with Branches 
+11. Merging & Merge Conflicts  
+12. GitHub Collaboration 
+13. Best Practices  
+14. Next Steps
 
 ---
 
